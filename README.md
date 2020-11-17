@@ -1,15 +1,19 @@
 ## Hi, there! I'm Ana Carolina Hernandes 👋
 
+<br />
+
 - 🔭 I’m Brazilian Front-End Developer, currently working on Accenture Brasil
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I want to contribute more to open source projects
-- ⚡ I'm a kung fu practitioner and dog lover ❤ 
+- ⚡ I'm a kung fu practitioner and dog lover ❤
+- 💬 Ask me about anything, I am happy to help
 
 ### Connect with me 
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 <br />
 <br />
@@ -30,7 +34,6 @@
 <br />
 <br />
 
-<img align="left" alt="SASS" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="Styled Components" src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
@@ -38,3 +41,8 @@
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
 [instagram]: https://www.instagram.com/anacbhernandes
 [twitter]: https://www.twitter.com/anacbhernandes
+[spotify]: https://open.spotify.com/user/cosi4ysybgf87l1ri0zcaxb4o?si=9i0KEs7MQ1WqMRzdw0Gsyg
+
+
+
+
