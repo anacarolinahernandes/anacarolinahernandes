@@ -26,12 +26,11 @@
 
 <br />
 <br />
+<br />
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anacarolinahernandes&show_icons=true&locale=en&layout=compact" alt="anacarolinahernandes" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anacarolinahernandes&show_icons=true&locale=en&layout=compact" alt="anacarolinahernandes" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" /></p>
-</div>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" />
 
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
 [instagram]: https://www.instagram.com/anacbhernandes
