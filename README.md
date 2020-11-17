@@ -24,7 +24,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 
 <br />
-<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anacarolinahernandes&show_icons=true&locale=en&layout=compact" alt="anacarolinahernandes" />
 
