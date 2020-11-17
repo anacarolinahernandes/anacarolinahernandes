@@ -1,12 +1,11 @@
-### Hi, there! I'm Ana Carolina Hernandes 👋
+### Hi 👋, I'm Ana Carolina Hernandes
+#### A passionate frontend developer from Brazil
 
-<br />
 
-- 🔭 I’m Brazilian Front-End Developer, currently working on Accenture Brasil
+- 🔭 I'm currently working on Accenture
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I want to contribute more to open source projects
 - ⚡ I'm a kung fu practitioner and dog lover ❤
-- 💬 Ask me about anything, I am happy to help
 
 #### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
