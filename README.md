@@ -27,6 +27,10 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anacarolinahernandes&show_icons=true&locale=en&layout=compact" alt="anacarolinahernandes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" /></p>
+
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
 [instagram]: https://www.instagram.com/anacbhernandes
 [twitter]: https://www.twitter.com/anacbhernandes
