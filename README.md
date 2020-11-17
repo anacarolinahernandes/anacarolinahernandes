@@ -1,6 +1,7 @@
+<p align="right"><img src="https://komarev.com/ghpvc/?username=anacarolinahernandes&label=Profile%20views&color=0e75b6&style=flat" alt="anacarolinahernandes" /> </p>
+
 ### Hi 👋, I'm Ana Carolina Hernandes
 #### A passionate frontend developer from Brazil
-
 
 - 🔭 I'm currently working on Accenture
 - 👯 I’m looking to collaborate with other content creators
