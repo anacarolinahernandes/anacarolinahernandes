@@ -16,6 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
@@ -31,6 +32,5 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" />
 
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
-[instagram]: https://www.instagram.com/anacbhernandes
 [twitter]: https://www.twitter.com/anacbhernandes
 [spotify]: https://open.spotify.com/user/cosi4ysybgf87l1ri0zcaxb4o?si=9i0KEs7MQ1WqMRzdw0Gsyg
