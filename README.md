@@ -31,4 +31,3 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" />
 
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
-[spotify]: https://open.spotify.com/user/cosi4ysybgf87l1ri0zcaxb4o?si=9i0KEs7MQ1WqMRzdw0Gsyg
