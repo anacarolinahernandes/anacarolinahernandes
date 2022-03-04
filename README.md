@@ -23,7 +23,6 @@
 #### Connect with me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 
 <br />
 
@@ -32,5 +31,4 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=anacarolinahernandes&show_icons=true&locale=en" alt="anacarolinahernandes" />
 
 [linkedin]: https://www.linkedin.com/in/anacarolinahernandes/
-[twitter]: https://www.twitter.com/anacbhernandes
 [spotify]: https://open.spotify.com/user/cosi4ysybgf87l1ri0zcaxb4o?si=9i0KEs7MQ1WqMRzdw0Gsyg
